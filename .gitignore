@@ -1,0 +1,25 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### Java ###
+*.class
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+bin/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Data files (too large for GitHub) ###
+address.csv
+address.xml
